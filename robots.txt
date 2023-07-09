@@ -1,1 +1,2 @@
-User-agent: *
+User-Agent: *
+Sitemap: http://ourblind.com/sitemap.xml
