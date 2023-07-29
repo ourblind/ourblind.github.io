@@ -7,5 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2023, OurBlind moderators.</copyright><atom:link href="http://ourblind.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FAQ</title>
+      <link>http://ourblind.com/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ourblind.com/faq/</guid>
+      <description>Frequently Asked Questions This FAQ hopes to answer some of the questions that a lot of blind users get from sighted people, as soon as they discover we&amp;rsquo;re blind. If your question isn&amp;rsquo;t answered here, feel free to ask us! If the answer is common to a lot of blind people, it will get added here.
+Q: How Do Blind People Use Computers? A: Some blind people are not totally without sight, and can read print just fine, if it&amp;rsquo;s enlarged.</description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>http://ourblind.com/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ourblind.com/resources/</guid>
+      <description>Resources This is a non-exhaustive list of resources the OurBlind community has found helpful. It may grow in time and suggestions are appreciated.
+Accessibility Support Phone Lines You Should Know
+NFB free slate and stylus program
+NFB free white cane program
+Braille learning resources:
+UEB Online APH UEB Math Tutorial APH Nemeth Tutorial Share Braille - A platform for requesting completely free secondhand braille books from other individuals to keep forever and listing your own that you don’t need anymore.</description>
+    </item>
+    
   </channel>
 </rss>
