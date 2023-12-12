@@ -6,6 +6,7 @@
     <description>Recent content in Tags on OurBlind</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright © 2023, OurBlind moderators.</copyright><atom:link href="http://ourblind.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © 2023, OurBlind moderators.</copyright>
+    <atom:link href="http://ourblind.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
