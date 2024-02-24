@@ -1,6 +1,6 @@
 {
-    "name": "OurBlind",
-    "short_name": "The home of OurBlind on the internet.",
+    "name": "OurBlind - The home of OurBlind on the internet.",
+    "short_name": "OurBlind",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
